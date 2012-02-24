@@ -35,7 +35,7 @@ module Krypt
     end
     alias << update
 
-    def digest(data = nil)
+    def digest(data=nil)
       if data
         ret = digest_once(data)
       else
