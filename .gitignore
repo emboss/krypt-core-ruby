@@ -1,0 +1,8 @@
+.bundle
+tmp
+*.swp
+*.swo
+*~
+.rbx/
+.idea/
+
