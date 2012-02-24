@@ -4,7 +4,7 @@ The Ruby implementation of the krypt-core API.
 
 The goal of this implementation is to provide all the aspects of krypt-core
 via pure Ruby code, therefore any interaction with the native krypt-provider
-API is accomplished using [FFI](https://github.com/ffi).
+API is accomplished using FFI (https://github.com/ffi).
 
 == krypt
 
