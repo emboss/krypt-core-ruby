@@ -6,7 +6,7 @@ KRYPT_HOME = '../krypt'
 
 task :default => :spec
 
-RSpec::Core::RakeTask.new('spec-run') do |spec|
+RSpec::Core::RakeTask.new('spec') do |spec|
   spec.pattern = File.join(KRYPT_HOME, 'spec/**/*_spec.rb')
   spec.fail_on_error = false
 end

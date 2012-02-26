@@ -45,6 +45,10 @@ module Krypt
       ret
     end
 
+    def hexdigest(data=nil)
+      digest(data).unpack("H*")[0]
+    end
+
     def digest_length
       read_length(@handle.interface[:md_digest_length])
     end
