@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'ffi'
 gem 'krypt-provider-openssl', :path => File.expand_path('../krypt-provider-openssl', File.dirname(__FILE__))
