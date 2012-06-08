@@ -18,3 +18,4 @@ See the file 'LICENSE' for further details.
 require 'krypt-provider'
 require 'krypt/core/provider'
 require 'krypt/core/digest'
+require 'krypt/core/hex'
