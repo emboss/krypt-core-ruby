@@ -11,5 +11,8 @@ API is accomplished using FFI (https://github.com/ffi).
 For more information about krypt, please have a
 look at the project and its wiki at
 
-https://github.com/emboss/krypt
+https://github.com/krypt/krypt
 
+Copyright (c) 2011-2012
+Hiroshi Nakamura <nahi@ruby-lang.org>
+Martin Bosslet <Martin.Bosslet@googlemail.com>
