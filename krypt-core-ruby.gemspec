@@ -7,5 +7,6 @@ Gem::Specification.new do |s|
   s.summary = 'Ruby implementation of the krypt-core API'
   s.files = %w(LICENSE) + Dir.glob('{bin,lib,spec,test}/**/*')
   s.test_files = Dir.glob('test/**/test_*.rb')
-  s.require_path = "lib"
+  s.require_path = 'lib'
+  s.license = 'MIT'
 end
