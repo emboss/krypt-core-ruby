@@ -13,6 +13,6 @@ look at the project and its wiki at
 
 https://github.com/krypt/krypt
 
-Copyright (c) 2011-2012
+Copyright (c) 2011-2013
 Hiroshi Nakamura <nahi@ruby-lang.org>
-Martin Bosslet <Martin.Bosslet@googlemail.com>
+Martin Bosslet <Martin.Bosslet@gmail.com>
